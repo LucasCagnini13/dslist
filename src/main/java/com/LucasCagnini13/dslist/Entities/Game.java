@@ -8,7 +8,7 @@ import jakarta.persistence.Table;
 import jakarta.persistence.Id;
 
 @Entity
-@Table(name = "tb_table")
+@Table(name = "tb_game")
 public class Game {
 
 	@Id
@@ -24,7 +24,7 @@ public class Game {
 	private String imgUrl;
 
 	@Column(columnDefinition = "TEXT")
-	private String shotDescription;
+	private String shortDescription;
 
 	@Column(columnDefinition = "TEXT")
 	private String longDescription;
@@ -34,7 +34,7 @@ public class Game {
 	}
 
 	public Game(Long id, String title, Integer year, String genre, String platforms, Double score, String imgUrl,
-			String shotDescription, String longDescription) {
+			String shortDescription, String longDescription) {
 
 		Id = id;
 		this.title = title;
@@ -43,7 +43,7 @@ public class Game {
 		this.platforms = platforms;
 		this.score = score;
 		this.imgUrl = imgUrl;
-		this.shotDescription = shotDescription;
+		this.shortDescription = shortDescription;
 		this.longDescription = longDescription;
 	}
 
@@ -103,12 +103,12 @@ public class Game {
 		this.imgUrl = imgUrl;
 	}
 
-	public String getShotDescription() {
-		return shotDescription;
+	public String getShortDescription() {
+		return shortDescription;
 	}
 
-	public void setShotDescription(String shotDescription) {
-		this.shotDescription = shotDescription;
+	public void setShortDescription(String shortDescription) {
+		this.shortDescription = shortDescription;
 	}
 
 	public String getLongDescription() {
