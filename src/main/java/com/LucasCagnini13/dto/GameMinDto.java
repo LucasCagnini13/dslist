@@ -1,6 +1,6 @@
 package com.LucasCagnini13.dto;
 
-import com.LucasCagnini13.dslist.Entities.Game;
+import com.LucasCagnini13.Entities.Game;
 
 public class GameMinDto {
 

@@ -1,4 +1,6 @@
-package com.LucasCagnini13.dslist.Entities;
+package com.LucasCagnini13.Entities;
+
+import java.util.Objects;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -118,5 +120,24 @@ public class Game {
 	public void setLongDescription(String longDescription) {
 		this.longDescription = longDescription;
 	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(Id);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Game other = (Game) obj;
+		return Objects.equals(Id, other.Id);
+	}
+	
+	
 
 }
