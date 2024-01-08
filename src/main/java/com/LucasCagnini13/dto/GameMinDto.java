@@ -1,6 +1,7 @@
 package com.LucasCagnini13.dto;
 
 import com.LucasCagnini13.Entities.Game;
+import com.LucasCagnini13.Projections.GameMinProjection;
 
 public class GameMinDto {
 
@@ -21,6 +22,16 @@ public class GameMinDto {
 		year = entity.getYear();
 		imgUrl = entity.getImgUrl();
 		shortDescription = entity.getShortDescription();
+	}
+	
+	public GameMinDto(GameMinProjection entity) {
+		
+		id = entity.getId();
+		title = entity.getTitle();
+		year = entity.getYear();
+		imgUrl = entity.getImgUrl();
+		shortDescription = entity.getShortDescription();
+		
 	}
 
 	public Long getId() {
