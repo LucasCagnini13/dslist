@@ -33,5 +33,14 @@
 ![aula 2 1](https://github.com/LucasCagnini13/dslist/assets/92214422/11276d32-45b9-4eb5-b792-f74f481183e6)
 <br>
 
+#####   Requisição GET: Games da Lista
+![aula 2 2](https://github.com/LucasCagnini13/dslist/assets/92214422/613a75a2-c768-4529-957a-a795551c1e56)
+<br>
+
+#### Aula 3
+#### Aprendizado: Dicas de currículo e portfólio, perfis de projeto, ambiente local com Docker Compose, processo de homologação local, processo de deploy com CI|CD e configuração de CORS
+<br>
+
+
 
 <div/>
