@@ -20,11 +20,14 @@
 ![Capturar](https://github.com/LucasCagnini13/dslist/assets/92214422/b1b5a2b8-7b1f-436f-9f05-4b1edb886862)
 
 <br>
+
 #### Aula 2
 #### Aprendizado: Relacionamentos N-N, classe de associação, embeddet id, consultas SQL no Spring Data JPA e Projections
 <br>
 
-#####   Requisição GET: Todos os Games 
+#####   Requisição GET: Game por Id 
+![aula 2](https://github.com/LucasCagnini13/dslist/assets/92214422/f19bcafa-5bc4-4fc9-b034-9fd944bf86c6)
+
 
 
 <div/>
