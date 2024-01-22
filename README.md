@@ -27,7 +27,11 @@
 
 #####   Requisição GET: Game por Id 
 ![aula 2](https://github.com/LucasCagnini13/dslist/assets/92214422/f19bcafa-5bc4-4fc9-b034-9fd944bf86c6)
+<br>
 
+#####   Requisição GET: Todas as Listas 
+https://github.com/LucasCagnini13/dslist/issues/3#issue-2094978019
+<br>
 
 
 <div/>
