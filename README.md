@@ -30,7 +30,7 @@
 <br>
 
 #####   Requisição GET: Todas as Listas 
-https://github.com/LucasCagnini13/dslist/issues/3#issue-2094978019
+![aula 2 1](https://github.com/LucasCagnini13/dslist/assets/92214422/11276d32-45b9-4eb5-b792-f74f481183e6)
 <br>
 
 
