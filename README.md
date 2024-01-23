@@ -55,6 +55,15 @@
 #### Aprendizado: Design e implementação do endpoint, verbo HTTP e idempotência  
 <br>
 
+#####   movendo a posição do game dentro da lista
+![aula 4](https://github.com/LucasCagnini13/dslist/assets/92214422/e1bdfb51-8b37-4021-83cc-b6aa2df85030)
+<br>
 
+######   Antes:
+![aula 4](https://github.com/LucasCagnini13/dslist/assets/92214422/e1bdfb51-8b37-4021-83cc-b6aa2df85030)
+<br>
 
+######   Depois:
+![aula 4](https://github.com/LucasCagnini13/dslist/assets/92214422/e1bdfb51-8b37-4021-83cc-b6aa2df85030)
+<br>
 <div/>
