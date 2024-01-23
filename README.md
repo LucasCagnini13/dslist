@@ -41,6 +41,20 @@
 #### Aprendizado: Dicas de currículo e portfólio, perfis de projeto, ambiente local com Docker Compose, processo de homologação local, processo de deploy com CI|CD e configuração de CORS
 <br>
 
+#####   Configuração dos testes de produção
+![aula 3](https://github.com/LucasCagnini13/dslist/assets/92214422/aab51804-6473-428b-8c19-08009a0ec756)
+<br>
+
+#####   Arquivo SQL gerado e Tabelas do Banco de dados
+![aula 3 2](https://github.com/LucasCagnini13/dslist/assets/92214422/7284201d-2581-4f0e-b807-ee9ff799e092)
+<br>
+![aula 3 1](https://github.com/LucasCagnini13/dslist/assets/92214422/36b757d4-f2d5-4cb9-81f3-047b5a22e76c)
+<br>
+
+#### Aula 4
+#### Aprendizado: Design e implementação do endpoint, verbo HTTP e idempotência  
+<br>
+
 
 
 <div/>
