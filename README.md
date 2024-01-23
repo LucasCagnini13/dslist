@@ -52,7 +52,7 @@
 <br>
 
 ### Aula 4
-#### Aprendizado: Design e implementação do endpoint, verbo HTTP e idempotência  
+#### Aprendizado: Design, implementação do endpoint, verbo HTTP e idempotência  
 <br>
 
 #####   movendo a posição do game dentro da lista
@@ -72,6 +72,6 @@
 <br>
 <br>
 
-### Projeto referência: https://github.com/devsuperior/dslist-backend.git  
+#### Projeto referência: https://github.com/devsuperior/dslist-backend.git  
 
 <div/>
