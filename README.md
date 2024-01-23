@@ -60,10 +60,18 @@
 <br>
 
 ######   Antes:
-![aula 4](https://github.com/LucasCagnini13/dslist/assets/92214422/e1bdfb51-8b37-4021-83cc-b6aa2df85030)
+![aula 4 antes](https://github.com/LucasCagnini13/dslist/assets/92214422/2b7de781-6dd7-4a82-81e7-0a70a3f2c265)
 <br>
 
 ######   Depois:
-![aula 4](https://github.com/LucasCagnini13/dslist/assets/92214422/e1bdfb51-8b37-4021-83cc-b6aa2df85030)
+![aula 4 1](https://github.com/LucasCagnini13/dslist/assets/92214422/6bf5d3af-5773-4017-b0ca-5f331032ccb8)
 <br>
+
+#####   Lógica da troca de poisção dos Games
+![aula 4 2](https://github.com/LucasCagnini13/dslist/assets/92214422/083f6b02-2f93-4243-ae6f-17d40ffc3660)
+<br>
+<br>
+
+### Projeto referência: https://github.com/devsuperior/dslist-backend.git  
+
 <div/>
