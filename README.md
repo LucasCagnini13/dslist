@@ -2,6 +2,7 @@
 
 ## Projeto de Estudo DevSuperior: Lista de Games
 <br>
+
 #### Tecnologias Usadas:
 ##### ○ Java
 ##### ○ SpringFramework
