@@ -1,8 +1,7 @@
 <div align="center">
 
-### Projeto de Estudo DevSuperior: Lista de Games
+## Projeto de Estudo DevSuperior: Lista de Games
 <br>
-
 #### Tecnologias Usadas:
 ##### ○ Java
 ##### ○ SpringFramework
@@ -12,7 +11,7 @@
 
 <br>
 
-#### Aula 1
+### Aula 1
 #### Aprendizado: Sistemas web e recursos, cliente/servido, HTTP, JSON, padrão rest para API web, estruturação de projeto Spring Rest, Entidades, ORM, database seeding, padrão camadas, controller, service, repository e padrão DTO  
 <br>
 
@@ -21,7 +20,7 @@
 
 <br>
 
-#### Aula 2
+### Aula 2
 #### Aprendizado: Relacionamentos N-N, classe de associação, embeddet id, consultas SQL no Spring Data JPA e Projections
 <br>
 
@@ -37,7 +36,7 @@
 ![aula 2 2](https://github.com/LucasCagnini13/dslist/assets/92214422/613a75a2-c768-4529-957a-a795551c1e56)
 <br>
 
-#### Aula 3
+### Aula 3
 #### Aprendizado: Dicas de currículo e portfólio, perfis de projeto, ambiente local com Docker Compose, processo de homologação local, processo de deploy com CI|CD e configuração de CORS
 <br>
 
@@ -51,7 +50,7 @@
 ![aula 3 1](https://github.com/LucasCagnini13/dslist/assets/92214422/36b757d4-f2d5-4cb9-81f3-047b5a22e76c)
 <br>
 
-#### Aula 4
+### Aula 4
 #### Aprendizado: Design e implementação do endpoint, verbo HTTP e idempotência  
 <br>
 
